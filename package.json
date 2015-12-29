@@ -1,0 +1,25 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "Just a test for How to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaace/test-npm.git"
+  },
+  "keywords": [
+    "test",
+    "how",
+    "to",
+    "npm"
+  ],
+  "author": "Jason Boyle",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Jaace/test-npm/issues"
+  },
+  "homepage": "https://github.com/Jaace/test-npm#readme"
+}
